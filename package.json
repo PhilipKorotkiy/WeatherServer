@@ -1,0 +1,16 @@
+{
+  "name": "weather-drone",
+  "version": "1.0.0",
+  "description": "Weather Drone",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Phil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "expresss": "^0.0.0"
+  }
+}
